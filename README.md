@@ -1,6 +1,8 @@
 # Data_Wrangling
 Data wrangling utilizing Python and SQL
 
+To view the project notebook click [here.](https://mhphillips.com/data-wrangling-openstreetmap-data-python-sql/)
+
 A sample of the OpenStreetMap dataset was cleaned of irregularities and typos using Python, and then queried using SQL.
 
 ## To run code locally:
